@@ -355,7 +355,7 @@ let data = {
             length: 30,
             width: 30,
             height: 5,
-            amount: 20,
+            amount: 5000,
             color: "Grå",
             surface: "",
             origin: "",
