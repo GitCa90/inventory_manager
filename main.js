@@ -175,7 +175,7 @@ let data = {
             surface: "",
             origin: "",
             stored: "Sviland",
-            image: "Storgatestein/ce3werouu23440u23.jpg",
+            image: "storgatestein/ce3werouu23440u23.jpg",
             note: "",
         },
         {
@@ -189,7 +189,7 @@ let data = {
             surface: "",
             origin: "",
             stored: "Sviland",
-            image: "Storgatestein/dqwqw2332342342.jpg",
+            image: "storgatestein/dqwqw2332342342.jpg",
             note: "",
         },
         {
@@ -203,7 +203,7 @@ let data = {
             surface: "",
             origin: "",
             stored: "Sviland",
-            image: "Storgatestein/storgate3.jpg",
+            image: "storgatestein/storgate3.jpg",
             note: "",
         },
         {
@@ -217,7 +217,7 @@ let data = {
             surface: "",
             origin: "Lura Skole",
             stored: "Sviland",
-            image: "Storgatestein/storgate4.jpg",
+            image: "storgatestein/storgate4.jpg",
             note: "Ble tatt opp på lura skole 2014",
         },
     ],
